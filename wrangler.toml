@@ -1,0 +1,7 @@
+name = "dsss-hls-cookie-worker"
+main = "index.js"
+compatibility_date = "2024-11-01"
+workers_dev = true
+
+[placement]
+mode = "smart"
